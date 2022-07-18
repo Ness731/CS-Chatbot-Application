@@ -1,3 +1,22 @@
+# 🔥 CS 자기주도 프로젝트 : 기초캡스톤-UP 💪
+### 🚩 Goal
+2022-1 기초 캡스톤에서 연구했던 __GPT-3__ 를 활용한 __모바일 챗봇 어플리케이션__ 을 제작한다.
+
+### 🔧 Develop Tool
+- Framework : Flutter
+- Language : Dart
+- IDE : AndroidStudio
+
+### 📋 Project Management Tool
+- Configuration Management : Github
+- Process Management : JIRA
+- Communication Management : KakaoTalk
+
+### 📅 Schedule
+- Deadline : 8/25
+
+----
+### 📝 UI 오픈소스 설명문
 <br>
 
 <p align="center">
