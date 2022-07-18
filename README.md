@@ -3,20 +3,21 @@
 2022-1 기초 캡스톤에서 연구했던 __GPT-3__ 를 활용한 __모바일 챗봇 어플리케이션__ 을 제작한다.
 
 ### 💁‍♀️ Developers
-김정현
+- 김정현<br>
 <a href="https://github.com/j-ys">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-https://github.com/j-ys
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
 
-#181717
-서혜린
-https://github.com/dhkaak
+- 서혜린<br>
+<a href="https://github.com/dhkaak">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
 
-정진주
-https://github.com/Ness731
+- 정진주<br>
+<a href="https://github.com/Ness731">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
 
-조희연
-https://github.com/chy0503
+- 조희연<br>
+<a href="https://github.com/chy0503">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
 
 ### 🔧 Develop Tool
 - Framework : Flutter
