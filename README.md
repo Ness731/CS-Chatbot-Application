@@ -4,7 +4,7 @@
 <br>
 
 ### 💁‍♀️ Developers
-:black_small_square:김정현<br> <a href="https://github.com/j-ys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
+:black_small_square:김정현<br> <a href="https://github.com/Jhyunee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
   
 :black_small_square:서혜린<br> <a href="https://github.com/dhkaak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
   
