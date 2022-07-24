@@ -22,10 +22,15 @@
 ### 📋 Project Management Tool
 - Configuration Management : Github
 - Process Management : JIRA
+- Project Management : Notion
 - Communication Management : KakaoTalk
 <br>
 
 ### 📅 Schedule
 - Deadline : 8/25
 
+<<<<<<< HEAD
 <!-- 커밋 테스트: 서혜린 -->
+=======
+<!-- 커밋 테스트: 정진주, 조희연 -->
+>>>>>>> 44d082e6e28a60258463023d4eba1fbc3d3afd29
