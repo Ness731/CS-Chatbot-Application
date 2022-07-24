@@ -22,6 +22,7 @@
 ### 📋 Project Management Tool
 - Configuration Management : Github
 - Process Management : JIRA
+- Project Management : Notion
 - Communication Management : KakaoTalk
 <br>
 
