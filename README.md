@@ -22,6 +22,7 @@
 ### 📋 Project Management Tool
 - Configuration Management : Github
 - Process Management : JIRA
+- Project Management : Notion
 - Communication Management : KakaoTalk
 <br>
 
@@ -48,4 +49,6 @@ __3) Github__
 - commit 및 push 전에 반드시 단체 채팅방에 알린다.
 - 커밋 메시지 작성 시 __깃모지(Gitmoji)__ 를 말머리로 달아 가독성을 높인다.
   ':이모지: 커밋메시지' 커밋 메시지는 대문자로 시작
-<!-- 여기에 이름 작성  : 정진주, ->
+
+
+<!-- 커밋 테스트: 정진주, 조희연, 서혜린, 김정현 -->
